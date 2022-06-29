@@ -8,7 +8,7 @@ export default function History({ game }) {
         {game.players.map((player) => {
           return (
             <ListItem key={player.id}>
-              <span>{player.playerName}</span>
+              <span>{player.name}</span>
               <span>{player.score}</span>
             </ListItem>
           );

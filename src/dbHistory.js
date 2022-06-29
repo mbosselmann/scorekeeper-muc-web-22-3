@@ -1,61 +1,41 @@
 export const initialPreviousGames = [
   {
-    id: "123HFGDB",
+    id: "1kdjei92e",
     players: [
       {
-        id: "0tfnshVJFHs",
-        playerName: "John",
-        score: 50,
+        id: "018237412dde",
+        name: "John",
+        score: 42,
       },
       {
-        id: "jfhdkeTNGHSDK7564980",
-        playerName: "Jane",
-        score: 48,
+        id: "dkdi28dhdnew",
+        name: "Jane",
+        score: 43,
       },
       {
-        id: "jghtLAKTJGM7564839",
-        playerName: "Jack",
-        score: 30,
+        id: "ldke29dn292nd2",
+        name: "Jim",
+        score: 39,
       },
     ],
   },
   {
-    id: "123jghrTLAHD",
+    id: "oalaksiw22",
     players: [
       {
-        id: "0tuzzfhtgg",
-        playerName: "Sarah",
-        score: 25,
+        id: "ld02kd92jd",
+        name: "James",
+        score: 7,
       },
       {
-        id: "5867fisbntzvkd",
-        playerName: "Tom",
-        score: 30,
+        id: "9llkjdhwu28dh",
+        name: "Jeremy",
+        score: 14,
       },
       {
-        id: "0456jmfivznc",
-        playerName: "Klara",
-        score: 70,
-      },
-    ],
-  },
-  {
-    id: "204958gHJZNdhf",
-    players: [
-      {
-        id: "fhrkt5836dhc",
-        playerName: "Dante",
-        score: 5,
-      },
-      {
-        id: "405857JHSBCHFJjd",
-        playerName: "Henry",
-        score: 15,
-      },
-      {
-        id: "49756GHTNFJTUGSH",
-        playerName: "John",
-        score: 25,
+        id: "poieu28ndn",
+        name: "Johanita",
+        score: 17,
       },
     ],
   },
