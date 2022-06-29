@@ -5,17 +5,17 @@ const exampleGame = {
   players: [
     {
       id: "0tfnshVJFHs",
-      playerName: "John",
+      name: "John",
       score: 50,
     },
     {
       id: "jfhdkeTNGHSDK7564980",
-      playerName: "Jane",
+      name: "Jane",
       score: 48,
     },
     {
       id: "jghtLAKTJGM7564839",
-      playerName: "Jack",
+      name: "Jack",
       score: 30,
     },
   ],
