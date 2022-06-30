@@ -4,6 +4,7 @@ import Button from "./components/Button/Button.js";
 import History from "./components/History/History.js";
 import { initialPreviousGames } from "./dbHistory.js";
 import { Route, Routes } from "react-router-dom";
+import Navigation from "./components/Navigation/Navigation.js";
 
 const players = [
   {
@@ -67,6 +68,7 @@ function App() {
           />
         </Routes>
       </Main>
+      <Navigation />
     </>
   );
 }
